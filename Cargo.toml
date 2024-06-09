@@ -1,0 +1,15 @@
+[package]
+name = "max342x"
+version = "0.0.0"
+edition = "2021"
+authors = ["Dominic Fischer <rust@dominicfischer.me>"]
+license = "Apache-2.0"
+repository = "https://github.com/Dominaezzz/max342x"
+documentation = "https://docs.rs/max342x"
+description = "Rust support crate for the MAX3420 and MAX3421 chips"
+homepage = "https://github.com/Dominaezzz/max342x"
+readme = "README.md"
+categories = ["embedded", "no-std", "no-std::no-alloc"]
+keywords = ["max3420", "max3421", "no_std", "usb"]
+
+[dependencies]
